@@ -1,10 +1,10 @@
-streamlit==1.17.0
+streamlit==1.16.0
 numpy
-opencv-python-headless==4.6.0.66
+opencv-python-headless
 tensorflow-hub
-pillow==9.0.1
+pillow
 tensorflow
-matplotlib==3.5.1
+matplotlib
 streamlit_webrtc
 av
 scikit-learn
